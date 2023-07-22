@@ -1,6 +1,13 @@
 {
-  "name": "gabu-lib",
-  "version": "0.0.1",
+  "name": "@gabrielkrneiro/gabu-lib",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gabrielkrneiro/gabu-lib.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "version": "0.0.1-1",
   "description": "",
   "main": "index.js",
   "module": "dist/esm/index.js",
